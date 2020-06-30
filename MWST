@@ -1,0 +1,2 @@
+#! /usr/bin/bash
+python3 MWST.py $1 $2

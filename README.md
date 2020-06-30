@@ -2,7 +2,6 @@
     * My Implementation of Kruskal's Algorithm in pure Python.
     * Apart of my coursework at UCSC in: 
         * CSE 102
-        * MWST PROBLEM
 
 ## FILES:
 ### MWST.py

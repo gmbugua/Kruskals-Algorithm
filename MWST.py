@@ -6,7 +6,6 @@ import math as mt
 # initialization: U -> Universal Set indexed with the vertices of G
 #                 All values except U[0] are set to -1 => V.p = v
 #                 therefore the set is originally empty
-# All Functions are Derived from the Books explanation
 # And a Youtube Video: https://www.youtube.com/watch?v=wU6udHRIkcc
 
 
